@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/practice set.iml" filepath="$PROJECT_DIR$/practice set.iml" />
+>>>>>>> 0045df261099641a7307c26de8fbf6200ad82810
     </modules>
   </component>
 </project>
