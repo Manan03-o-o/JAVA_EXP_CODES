@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PracticeSet.iml" filepath="$PROJECT_DIR$/PracticeSet.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/practice set.iml" filepath="$PROJECT_DIR$/practice set.iml" />
+>>>>>>> 0045df261099641a7307c26de8fbf6200ad82810
+>>>>>>> 72d84abdf61f027a2b4aaea5ec2d7b7dda9ecc4d
     </modules>
   </component>
 </project>
